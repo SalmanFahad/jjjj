@@ -1,4 +1,4 @@
-token=NTA5NDk1NTQ4NjcyMzQ0MDY3.Dtc07A.sVbTeWS9x9msfBorNbbAq-gNMeE
+token=NTA5NDk1NTQ4NjcyMzQ0MDY3.Dtc9yg.XC4GxEwsHpwxp91dHRnOloyAjG8
 owner=391306171278950401
 prefix=E
 game=Throne Event.
